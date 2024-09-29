@@ -8,11 +8,11 @@ A professional problem solver who is dedicated, challenge oriented and resourcef
 I connect with people easily and like to listen to people’s problems and offer advice and solutions. 
 I’m a Founder who leads with empathy, resourcefulness and dedication to make results happen. Avid communicator in both technical and non-technical realm of cyber security.
 
-Motto: Cyber security isn't just an industry, it's a way of life.
+I started my cyber security journey in 2021 on the forefront before the industry boom in Australia. Thanks to US connections of Cybrary and Grant Collins - Cyber Academy and Melbourne Institute of TAFE, I had the background knowledge to move from project management into an ICT role for cyber security awareness, auditing and incident response.
 
-- 💻: I started my cyber security journey in 2021 on the forefront before the industry boom in Australia. Thanks to US connections of Cybrary and Grant Collins - Cyber Academy and Melbourne Institute of TAFE, I had the background knowledge to move from project management into an ICT role for cyber security awareness, auditing and incident response
+- 💻: Motto: Cyber security isn't just an industry, it's a way of life.
 
-- 👩‍🎓: Studying a Certificate III in ICT: Cyber security GRC and consulting, networking, programming and system admin.
+- 👩‍🎓: Currently studying a Certificate III in ICT: Cyber security GRC and consulting, networking, programming and system admin.
 
 - 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for AWSN, pitching in for cyber events and seminars, meet ups and writing, reading and listening to the latest podcast/trendsand participating in CTFs.
 
@@ -33,11 +33,9 @@ Motto: Cyber security isn't just an industry, it's a way of life.
 
 - 🎙️: Podcast recording with Galah Cyber Founder to discuss the founder journey.
 
-Submitted grants nominees 
+### 🏙️: Submitted grants nominees 
 
-Haagen-Dazs Rose Gold Project: pending outcome
+- 🌹:Haagen-Dazs Rose Gold Project: pending outcome
+- 🌠Enterprising Women Women's economic equality submission
 
-Enterprising Women Women's economic equality submission
-Summary line
-   
   
