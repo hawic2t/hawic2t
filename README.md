@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmFwcjRmdHhkeXIxZWhmMHF2MmxpdHBlb3QzMDN2NWsycWt0eTU5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif"/>
+  <img src="https://cdn.discordapp.com/attachments/1289134368006344704/1289559368152645715/2024-09-28_doodle_v3.png?ex=66fa94c0&is=66f94340&hm=e87e5ed754ae9e653033eb815333767f55bc11b6a2a818b00b4b1b6a7f2be9ec&"/>
 </div>
+https://cdn.discordapp.com/attachments/1289134368006344704/1289559368152645715/2024-09-28_doodle_v3.png?ex=66fa94c0&is=66f94340&hm=e87e5ed754ae9e653033eb815333767f55bc11b6a2a818b00b4b1b6a7f2be9ec&
 
 ### :woman_technologist: About Me :
 Hi, I’m Shirley.
