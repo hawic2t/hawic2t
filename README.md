@@ -21,7 +21,7 @@ I started my cyber security journey in 2021 on the forefront before the industry
 
 - :star:**WeWork and Stone & Chalk:** I've been a WeWork member since August 2023 and am an active member in community events and networking. Recently joined S & C in the start-up community and events.
 
-- 🌃: **Cyber Collective Advocate - US**
+- 🌃: **Cyber Collective Advocate - US**: add description
 
 - 🗨️: **Cyber Security Tech Meet-up**: for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge
 
@@ -31,7 +31,7 @@ I started my cyber security journey in 2021 on the forefront before the industry
 
 - 🌃: **Cyber collective Internet street smarts 2024 course**: designed to empower everyday people with essential digital safetyskills. Course content reviewer.
 
-- 🎙️: **Podcast recording with Galah Cyber**Founder to discuss the founder journey.
+- 🎙️: **Podcast recording with Galah Cyber** Founder to discuss the founder journey.
 
 ### 🏙️: Submitted grants nominees 
 
