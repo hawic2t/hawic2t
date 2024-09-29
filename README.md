@@ -35,7 +35,7 @@ I started my cyber security journey in 2021 on the forefront before the industry
 
 ### 🏙️: Submitted grants nominees 
 
-- 🌹:Haagen-Dazs Rose Gold Project: pending outcome
-- 🌠Enterprising Women Women's economic equality submission
+- 🌹: Haagen-Dazs Rose Gold Project: pending outcome
+- 🌠: Enterprising Women Women's economic equality submission
 
   
