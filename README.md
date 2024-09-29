@@ -10,7 +10,7 @@ I’m a Founder who leads with empathy, resourcefulness and dedication to make r
 
 I started my cyber security journey in 2021 on the forefront before the industry boom in Australia. Thanks to US connections of Cybrary and Grant Collins - Cyber Academy and Melbourne Institute of TAFE, I had the background knowledge to move from project management into an ICT role for cyber security awareness, auditing and incident response.
 
-- 💻: Motto: Cyber security isn't just an industry, it's a way of life.
+- 💻: **Motto:** Cyber security isn't just an industry, it's a way of life.
 
 - 👩‍🎓: Currently studying a Certificate III in ICT: Cyber security GRC and consulting, networking, programming and system admin.
 
@@ -19,23 +19,23 @@ I started my cyber security journey in 2021 on the forefront before the industry
 
 ### 💬: Communities I'm a part of:
 
-- :star: WeWork and Stone & Chalk: I've been a WeWork member since August 2023 and am an active member in community events and networking. Recently joined S & C in the start-up community and events.
+- :star: **WeWork and Stone & Chalk: **I've been a WeWork member since August 2023 and am an active member in community events and networking. Recently joined S & C in the start-up community and events.
 
-- 🌃: Cyber collective - US
+- 🌃: **Cyber Collective Advocate - US**
 
-- 🗨️: Cyber Security Tech Meet-up: for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge
+- 🗨️: **Cyber Security Tech Meet-up**: for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge
 
  ### 🏙️: Upcoming projects and events:
 
-- :star: National Missing Person Hackathon - Case Manager - Fri 13th Sept: Assisted as a case manager for the hackathon to review and provide commentary and guidance to teams.
+- :star: **National Missing Person Hackathon - Case Manager** - Fri 13th Sept: Assisted as a case manager for the hackathon to review and provide commentary and guidance to teams.
 
-- 🌃: Cyber collective Internet street smarts 2024 course: designed to empower everyday people with essential digital safetyskills. Course content reviewer.
+- 🌃: **Cyber collective Internet street smarts 2024 course**: designed to empower everyday people with essential digital safetyskills. Course content reviewer.
 
-- 🎙️: Podcast recording with Galah Cyber Founder to discuss the founder journey.
+- 🎙️: **Podcast recording with Galah Cyber **Founder to discuss the founder journey.
 
 ### 🏙️: Submitted grants nominees 
 
-- 🌹: Haagen-Dazs Rose Gold Project: pending outcome
-- 🌠: Enterprising Women Women's economic equality submission
+- 🌹: **Haagen-Dazs Rose Gold Project:** pending outcome
+- 🌠: **Enterprising Women's economic equality** grant category. 
 
   
