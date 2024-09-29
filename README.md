@@ -29,7 +29,7 @@ I started my cyber security journey in 2021 on the forefront before the industry
 
 - :star: National Missing Person Hackathon - Case Manager - Fri 13th Sept: Assisted as a case manager for the hackathon to review and provide commentary and guidance to teams.
 
-- 🌃: Cyber collective - US - the course: Internet street smarts course: reviewer of course content note from PDF 
+- 🌃: Cyber collective Internet street smarts 2024 course: designed to empower everyday people with essential digital safetyskills. Course content reviewer.
 
 - 🎙️: Podcast recording with Galah Cyber Founder to discuss the founder journey.
 
