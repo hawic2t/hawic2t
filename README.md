@@ -20,8 +20,8 @@ I was inspired to move from project management to the cyber security field where
 
 ### 💬: Communities I'm a part of:
 
-- :star:**WeWork and Stone & Chalk:** Proactive member in co-working spaces to make connections, collaboration and meet potential clients and referrals with fellow start ups in legal and technology. I meet regularly with WeWork members to share stories, latest updates and all the highs and lows of braving the industry (it's not as glamourous as it seems but the ride is worth it with great company by your side!). While at Stone & Chalk, I'm in the early days of estabilishing my cyber security presence with their community and have been steadily growing my connections.
-
+- :star:**WeWork and Stone & Chalk:** Proactive member in co-working spaces to make connections, collaboration and meet potential clients and referrals with fellow start ups in legal and technology. I meet regularly with WeWork members to share stories, latest updates and all the highs and lows of braving the industry (it's not as glamourous as it seems but the ride is worth it with great company by your side!). While at Stone & Chalk, I'm in the early days of building a similar community around me.
+  
 - 🌃: **Cyber Collective, Advocate (Volunteer)**: A non-profit organisation that is dedicated to promote internet safety and cyber security awareness. Volunteer work groups include: development, launch, engagement and impact for an upcoming Internet Street Smarts course.
 
 - 🗨️: **Cyber Security Tech Meet-up**: hosted by yours truly at HA.WIC for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge.
