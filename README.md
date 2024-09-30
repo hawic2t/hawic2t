@@ -6,11 +6,11 @@
 Hi, I’m Shirley.
 A professional problem solver who is dedicated, challenge oriented and resourceful to make results happen. 
 I connect with people easily and like to listen to people’s problems and offer advice and solutions. 
-I’m a Founder who leads with empathy, resourcefulness and dedication to make results happen. Avid communicator in both technical and non-technical realm of cyber security.
+I’m a Founder who leads with empathy, resourcefulness and dedication to make results happen. My MO is being an avid communicator in both the technical and non-technical realm of cyber security.
 
 I started my cyber security journey in 2021 on the forefront before the industry boom in Australia. Thanks to US connections of Cybrary and Grant Collins - Cyber Academy and Melbourne Institute of TAFE, I had the background knowledge to move from project management into an ICT role for cyber security awareness, auditing and incident response.
 
-- 💻: **Motto:** Cyber security isn't just an industry, it's a way of life.
+- 💻: **Motto:** _Cyber security isn't just an industry, it's a way of life._
 
 - 👩‍🎓: Currently studying a Certificate III in ICT: Cyber security GRC and consulting, networking, programming and system admin.
 
@@ -27,15 +27,15 @@ I started my cyber security journey in 2021 on the forefront before the industry
 
  ### 🏙️: Upcoming projects and events:
 
-- :star: **National Missing Person Hackathon - Case Manager** - Fri 13th Sept: Assisted as a case manager for the hackathon to review and provide commentary and guidance to teams.
+- :star: **National Missing Person Hackathon - Case Manager**: Assisted as a case manager for the hackathon to review and provide commentary and guidance to teams.
 
-- 🌃: **Cyber collective Internet street smarts 2024 course**: designed to empower everyday people with essential digital safetyskills. Course content reviewer.
+- 🌃: **Cyber collective Internet street smarts 2024 course**: designed to empower everyday people with essential digital safety skills. Course content reviewer.
 
 - 🎙️: **Podcast recording with Galah Cyber** Founder to discuss the founder journey.
 
-### 🏙️: Submitted grants nominees 
+### 📜: Submitted grant nominees:
 
-- 🌹: **Haagen-Dazs Rose Gold Project 2025:** pending outcome.
-- 🌠: **Enterprising Women's 2023 grant**: Women's economic equality grant category. 
+- 🌹: <a href="https://iwd.haagen-dazs.global/en/">Haagen-Dazs Rose Gold Project 2025</a>:pending outcome.
+- 🌠: **Enterprising Women's 2023 grant**: Women's economic equality category and guest attendee for the <a href="https://youtu.be/mKFQBDSvU_c?si=rOJdwDiwhVq8LMyD/">Grant Finale at Parliament House</a>
 
   
