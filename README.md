@@ -22,7 +22,7 @@ I was inspired to move from project management to the cyber security field where
 
 - :star:**WeWork and Stone & Chalk:** I've been a WeWork member since August 2023 and am an active member in community events and networking. I've also recently joined Stone and Chalk start-up community and events.
 
-- 🌃: **Cyber Collective Advocate (Volunteer)**: A non-profit organisation that is dedicated to promote internet safety and cyber security awareness. Volunteer work groups include: development, launch, engagement and impact for an upcoming Internet Street Smarts course.
+- 🌃: **Cyber Collective, Advocate (Volunteer)**: A non-profit organisation that is dedicated to promote internet safety and cyber security awareness. Volunteer work groups include: development, launch, engagement and impact for an upcoming Internet Street Smarts course.
 
 - 🗨️: **Cyber Security Tech Meet-up**: hosted by yours truly at HA.WIC for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge.
 
