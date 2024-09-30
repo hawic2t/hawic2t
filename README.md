@@ -34,7 +34,7 @@ I was inspired to move from project management to the cyber security field where
 - 🌃: **Cyber Security Awareness Champion for National Cybersecurity Alliance**: Every year the Alliance hosts a range of events for Cyber Security Awareness Month and has champions all across the world to help them promote a safer and more secure digital world. I'll be joining both as as an annual event attendee and a champion by writing articles and posting them within my cyber security community.
 - 🌃: <a href="https://www.cybercollective.org//">Cyber Collective Internet street smarts 2024 course</a>: I'm a course content reviewer and am so excited to be a part of Cyber Collective's mission to help society understand the impact of technology and for the every day user to learn how to protect themselves online with a one of a kind course, built by the staff and volunteers! Launching in October's Cyber Security Awareness Month.
 
-- 🎙️: <a href="https://www.galahcyber.com.au/podcasts/#:~:text=Tune%20in%20to%20%22Secured%20by%20Galah%20Cyber,%22%20the%20podcast%20for//">Secured by Galah Cyber Podcast</a>: I'm really looking forward to chatting with Cole Cornford Founder of Galah Cyber to share our stories of being respective start-up founders.
+- 🎙️: <a href="https://www.galahcyber.com.au/podcasts/#:~:text=Tune%20in%20to%20%22Secured%20by%20Galah%20Cyber,%22%20the%20podcast%20for//">Secured by Galah Cyber Podcast</a>: Upcoming chat with Cole Cornford Founder of Galah Cyber to share our stories of being respective start-up founders.
 
 ### 📜: Submitted grant nominees:
 
