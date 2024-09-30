@@ -14,7 +14,7 @@ I was inspired to move from project management to the cyber security field where
 
 - 👩‍🎓: Currently studying a Certificate III in ICT: Cyber security, governance, risk and compliance, ICT consulting, networking, programming (Python) and system admin.
 
-- 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for Australian Women in Security Network (AWSN), pitching in for cyber events and seminars, meet ups and  reading and listening to podcast about industry trends and participating in CTFs. 
+- 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for Australian Women in Security Network (AWSN), pitching in for cyber events and seminars and meet ups both as an attendee and a guest speaker. As well as  reading and listening to podcasts about the latest industry trends and participating in CTFs. 
 
 - 🇺🇸: I'm also an active member with the National CyberSecurity Alliance for Cyber security awareness month and Data Privacy week and other US based cyber security organisations.
 
