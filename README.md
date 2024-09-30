@@ -28,11 +28,18 @@ I was inspired to move from project management to the cyber security field where
 
  ### 🏙️: Upcoming projects and events (with more on the way):
 
-- :star: **National Missing Person Hackathon September 2024**: Assisted as a case manager to review submitted case evidenc and provide commentary and guidance to teams.
+- :star: **National Missing Person Hackathon September 2024**: Assisted as a case manager to review submitted case evidence and provide commentary and guidance to teams.
 - 📝: **Year of a She-Oh Book**: 30 lessons learnt in the year of my start up journey as a female CEO/Founder. Working in the midst of my first draft amongst running a company, studying and everything else in between!
 
 **October 2024**
-- 🌃: **Cyber Security Awareness Champion for National Cybersecurity Alliance**: Every year the Alliance hosts a range of events for Cyber Security Awareness Month and has champions all across the world to help them promote a safer and more secure digital world. I'll be joining both as as an annual event attendee and a champion with published written articles broadcasted to my cyber security community.
+<div id="header" align="left">
+  <img src="https://20740408.fs1.hubspotusercontent-na1.net/hubfs/20740408/2023%20Champion%20Badge-1.png" width= "400" />
+</div>
+I'm an official Champion of #CybersecurityAwarenessMonth with published written articles broadcasted to my cyber security community and participating as an annual event attendee.
+#SecureOurWorld at https://staysafeonline.org/cybersecurity-awareness-month/
+
+- 🌃: **Cyber Security Awareness Champion for National Cybersecurity Alliance**: Every year the Alliance hosts a range of events for Cyber Security Awareness Month and has champions all across the world to help them promote a safer and more secure digital world. 
+   
 - 🌃: <a href="https://www.cybercollective.org//">Cyber Collective Internet street smarts 2024 course</a>: I'm a course content reviewer and am so excited to be a part of Cyber Collective's mission to help society understand the impact of technology and for the every day user to learn how to protect themselves online with a one of a kind course, built by the staff and volunteers! Launching in October's Cyber Security Awareness Month.
 
 - 🎙️: <a href="https://www.galahcyber.com.au/podcasts/#:~:text=Tune%20in%20to%20%22Secured%20by%20Galah%20Cyber,%22%20the%20podcast%20for//">Secured by Galah Cyber Podcast</a>: Upcoming chat with Cole Cornford, Founder of Galah Cyber to share our stories of being respective start-up founders.
