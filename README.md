@@ -14,24 +14,25 @@ I was inspired to move from project management to the cyber security field where
 
 - 👩‍🎓: Currently studying a Certificate III in ICT: Cyber security, governance, risk and compliance, ICT consulting, networking, programming (Python) and system admin.
 
-- 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for Australian Women in Security Network (AWSN), pitching in for cyber events and seminars and meet ups both as an attendee and a guest speaker. As well as  reading and listening to podcasts about the latest industry trends and participating in CTFs. 
+- 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for Australian Women in Security Network (AWSN), pitching in for cyber events and seminars and meet ups both as an attendee and a guest speaker. The latest book or podcast about the latest industry trends or CTF is never too far from my book shelf or laptop.
 
-- 🇺🇸: I'm also an active member with the National CyberSecurity Alliance for Cyber security awareness month and Data Privacy week and other US based cyber security organisations.
+- 🗺️: Involved in US based cyber security organisations, in particular with the National CyberSecurity Alliance for Cyber security awareness month and Data Privacy week.
 
 ### 💬: Communities I'm a part of:
 
-- :star:**WeWork and Stone & Chalk:** I've been a WeWork member since August 2023 and am an active member in community events and networking. I've also recently joined Stone and Chalk start-up community and events.
+- :star:**WeWork and Stone & Chalk:** Proactive member in co-working spaces to make connections, collaboration and meet potential clients and referrals with fellow start ups in legal and technology. I meet regularly with WeWork members to share stories, latest updates and all the highs and lows of braving the industry (it's not as glamourous as it seems but the ride is worth it with great company by your side!). While at Stone & Chalk, I'm in the early days of estabilishing my cyber security presence with their community and have been steadily growing my connections.
 
 - 🌃: **Cyber Collective, Advocate (Volunteer)**: A non-profit organisation that is dedicated to promote internet safety and cyber security awareness. Volunteer work groups include: development, launch, engagement and impact for an upcoming Internet Street Smarts course.
 
 - 🗨️: **Cyber Security Tech Meet-up**: hosted by yours truly at HA.WIC for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge.
 
- ### 🏙️: Upcoming projects and events:
+ ### 🏙️: Upcoming projects and events (with more on the way):
 
-- :star: **National Missing Person Hackathon September 2024 - Case Manager**: Assisted as a case manager for the hackathon to review and provide commentary and guidance to teams.
+- :star: **National Missing Person Hackathon September 2024**: Assisted as a case manager for the hackathon to review and provide commentary and guidance to teams.
+- 📝: **Year of a She-Oh**: 30 lessons learnt in the year of my start up journey as a female CEO/Founder. **Still working in the midst of my first draft.**
 
 **October 2024**
-- 🌃: **Cyber Security Awareness Champion for National Cybersecurity Alliance**: Every year the Alliance hosts a range of events for Cyber Security Awareness Month and has champions all across the world to help them promote a safer and more secure digital world. I'll be joining both as as an annual event attendee and a champion by writing articles and posting them within my cyber security community.
+- 🌃: **Cyber Security Awareness Champion for National Cybersecurity Alliance**: Every year the Alliance hosts a range of events for Cyber Security Awareness Month and has champions all across the world to help them promote a safer and more secure digital world. I'll be joining both as as an annual event attendee and a champion with written articles that I'll publish within my cyber security community.
 - 🌃: <a href="https://www.cybercollective.org//">Cyber Collective Internet street smarts 2024 course</a>: I'm a course content reviewer and am so excited to be a part of Cyber Collective's mission to help society understand the impact of technology and for the every day user to learn how to protect themselves online with a one of a kind course, built by the staff and volunteers! Launching in October's Cyber Security Awareness Month.
 
 - 🎙️: <a href="https://www.galahcyber.com.au/podcasts/#:~:text=Tune%20in%20to%20%22Secured%20by%20Galah%20Cyber,%22%20the%20podcast%20for//">Secured by Galah Cyber Podcast</a>: Upcoming chat with Cole Cornford, Founder of Galah Cyber to share our stories of being respective start-up founders.
