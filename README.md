@@ -14,7 +14,7 @@ I was inspired to move from project management to the cyber security field where
 
 - 👩‍🎓: Currently studying a Certificate III in ICT: Cyber security, governance, risk and compliance, ICT consulting, networking, programming (Python) and system admin.
 
-- 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for Australian Women in Security Network (AWSN), pitching in for cyber events and seminars, meet ups and writing, reading and listening to the latest podcast/trendsand participating in CTFs. 
+- 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for Australian Women in Security Network (AWSN), pitching in for cyber events and seminars, meet ups and  reading and listening to podcast about industry trends and participating in CTFs. 
 
 :USA: I'm also an active member attendee in US based cyber security based organisations particulary at the National CyberSecurity Alliance events for Cyber security awareness month and Data Privacy week.
 
@@ -22,21 +22,23 @@ I was inspired to move from project management to the cyber security field where
 
 - :star:**WeWork and Stone & Chalk:** I've been a WeWork member since August 2023 and am an active member in community events and networking. Recently joined S & C in the start-up community and events.
 
-- 🌃: **Cyber Collective Advocate - US**: add description
+- 🌃: **Cyber Collective Advocate (Volunteer)**: A non-profit organisation that is dedicated to promote internet safety and cyber security awareness. Volunteer work groups include: development, launch, engagement and impact for an upcoming Internet Street Smarts course.
 
 - 🗨️: **Cyber Security Tech Meet-up**: for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge
 
  ### 🏙️: Upcoming projects and events:
 
-- :star: **National Missing Person Hackathon - Case Manager**: Assisted as a case manager for the hackathon to review and provide commentary and guidance to teams.
+- :star: **National Missing Person Hackathon September 2024 - Case Manager**: Assisted as a case manager for the hackathon to review and provide commentary and guidance to teams.
 
-- 🌃: **Cyber collective Internet street smarts 2024 course**: designed to empower everyday people with essential digital safety skills. Course content reviewer.
+**October 2024**
 
-- 🎙️: **Podcast recording with Galah Cyber** Founder to discuss the founder journey.
+- 🌃: <a href="https://www.cybercollective.org//">Cyber Collective Internet street smarts 2024 course</a>: I'm a course content reviewer and am so excited to be a part of Cyber Collective's mission to help society understand the impact of technology and for the every day user to learn how to protect themselves online with a one of a kind course, built by the staff and volunteers! Launching in October's Cyber Security Awareness Month.
+
+- 🎙️: <a href="https://www.galahcyber.com.au/podcasts/#:~:text=Tune%20in%20to%20%22Secured%20by%20Galah%20Cyber,%22%20the%20podcast%20for//">Secured by Galah Cyber Podcast</a>: I'm really looking forward to chatting with Cole Cornford Founder of Galah Cyber to share our stories of being respective start-up founders sometime.
 
 ### 📜: Submitted grant nominees:
 
-- 🌹: <a href="https://iwd.haagen-dazs.global/en/">Haagen-Dazs Rose Gold Project 2025</a>:pending outcome.
+- 🌹: <a href="https://iwd.haagen-dazs.global/en/">Haagen-Dazs Rose Gold Project 2025</a>:In honour of Häagen-Dazs’ iconic female co-founder Rose Mattus, The Rose Project has a bursary grant to support trailblazing women around the world to continue their amazing work and support the incredible causes they are passionate about. Pending outcome.
 - 🌠: **Enterprising Women's 2023 grant**: Women's economic equality category and guest attendee for the <a href="https://youtu.be/mKFQBDSvU_c?si=rOJdwDiwhVq8LMyD/">Grant Finale at Parliament House</a>
 
   
