@@ -24,7 +24,7 @@ I was inspired to move from project management to the cyber security field where
 
 - 🌃: **Cyber Collective Advocate (Volunteer)**: A non-profit organisation that is dedicated to promote internet safety and cyber security awareness. Volunteer work groups include: development, launch, engagement and impact for an upcoming Internet Street Smarts course.
 
-- 🗨️: **Cyber Security Tech Meet-up**:hosted by yours truly at HA.WIC for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge.
+- 🗨️: **Cyber Security Tech Meet-up**: hosted by yours truly at HA.WIC for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge.
 
  ### 🏙️: Upcoming projects and events:
 
