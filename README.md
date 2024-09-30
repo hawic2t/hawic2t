@@ -38,7 +38,7 @@ I was inspired to move from project management to the cyber security field where
 
 ### 📜: Submitted grant nominees:
 
-- 🌹: <a href="https://iwd.haagen-dazs.global/en/">Haagen-Dazs Rose Gold Project 2025</a>:In honour of Häagen-Dazs’ iconic female co-founder Rose Mattus, The Rose Project has a bursary grant to support trailblazing women around the world to continue their amazing work and support the incredible causes they are passionate about. Pending outcome.
+- 🌹: <a href="https://iwd.haagen-dazs.global/en/">Häagen-Dazs Rose Gold Project 2025</a>:In honour of Häagen-Dazs’ iconic female co-founder Rose Mattus, The Rose Project has a bursary grant to support trailblazing women around the world to continue their amazing work and support the incredible causes they are passionate about. **Pending outcome**.
 - 🌠: **Enterprising Women's 2023 grant**: Women's economic equality category and guest attendee for the <a href="https://youtu.be/mKFQBDSvU_c?si=rOJdwDiwhVq8LMyD/">Grant Finale at Parliament House</a>
 
   
