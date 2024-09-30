@@ -29,7 +29,7 @@ I was inspired to move from project management to the cyber security field where
  ### 🏙️: Upcoming projects and events (with more on the way):
 
 - :star: **National Missing Person Hackathon September 2024**: Assisted as a case manager for the hackathon to review and provide commentary and guidance to teams.
-- 📝: **Year of a She-Oh**: 30 lessons learnt in the year of my start up journey as a female CEO/Founder. **Still working in the midst of my first draft.**
+- 📝: **Year of a She-Oh Book**: 30 lessons learnt in the year of my start up journey as a female CEO/Founder. Working in the midst of my first draft amongst running a company, studying and everything else in between!
 
 **October 2024**
 - 🌃: **Cyber Security Awareness Champion for National Cybersecurity Alliance**: Every year the Alliance hosts a range of events for Cyber Security Awareness Month and has champions all across the world to help them promote a safer and more secure digital world. I'll be joining both as as an annual event attendee and a champion with written articles that I'll publish within my cyber security community.
