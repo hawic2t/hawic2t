@@ -16,7 +16,7 @@ I was inspired to move from project management to the cyber security field where
 
 - 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for Australian Women in Security Network (AWSN), pitching in for cyber events and seminars, meet ups and  reading and listening to podcast about industry trends and participating in CTFs. 
 
-:USA: I'm also an active member attendee in US based cyber security based organisations particulary at the National CyberSecurity Alliance events for Cyber security awareness month and Data Privacy week.
+🇺🇸: I'm also an active member with the National CyberSecurity Alliance for Cyber security awareness month and Data Privacy week and other US based cyber security organisations.
 
 ### 💬: Communities I'm a part of:
 
@@ -24,7 +24,7 @@ I was inspired to move from project management to the cyber security field where
 
 - 🌃: **Cyber Collective Advocate (Volunteer)**: A non-profit organisation that is dedicated to promote internet safety and cyber security awareness. Volunteer work groups include: development, launch, engagement and impact for an upcoming Internet Street Smarts course.
 
-- 🗨️: **Cyber Security Tech Meet-up**: for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge.
+- 🗨️: **Cyber Security Tech Meet-up**:hosted by yours truly at HA.WIC for colleagues in the field to discuss latest topics, projects and trends in industry, share ideas and knowledge.
 
  ### 🏙️: Upcoming projects and events:
 
