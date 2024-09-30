@@ -4,18 +4,19 @@
 
 ### :woman_technologist: About Me :
 Hi, I’m Shirley.
-A professional problem solver who is dedicated, challenge oriented and resourceful to make results happen. 
-I connect with people easily and like to listen to people’s problems and offer advice and solutions. 
-I’m a Founder who leads with empathy, resourcefulness and dedication to make results happen. My MO is being an avid communicator in both the technical and non-technical realm of cyber security.
+A professional problem solver who is dedicated, challenge oriented and resourceful to make results happen. I connect with people easily and like to listen to people’s problems and offer advice and solutions. I’m a Founder who leads with empathy, resourcefulness and dedication to make results happen. My MO is being an avid communicator in both the technical and non-technical realm of cyber security.
 
-I started my cyber security journey in 2021 on the forefront before the industry boom in Australia. Thanks to US connections of Cybrary and Grant Collins - Cyber Academy and Melbourne Institute of TAFE, I had the background knowledge to move from project management into an ICT role for cyber security awareness, auditing and incident response.
+I started my cyber security journey in 2021 on the forefront before the industry boom in Australia. Thanks to the US connections from Cybrary and Grant Collins' Cyber Academy and my studies at Melbourne Institute of TAFE in cyber security and networking. 
+
+I was inspired to move from project management to the cyber security field where I'm constantly challenged to grow and evolve on a daily basis.
 
 - 💻: **Motto:** _Cyber security isn't just an industry, it's a way of life._
 
-- 👩‍🎓: Currently studying a Certificate III in ICT: Cyber security GRC and consulting, networking, programming and system admin.
+- 👩‍🎓: Currently studying a Certificate III in ICT: Cyber security, governance, risk and compliance, ICT consulting, networking, programming (Python) and system admin.
 
-- 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for AWSN, pitching in for cyber events and seminars, meet ups and writing, reading and listening to the latest podcast/trendsand participating in CTFs.
+- 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for Australian Women in Security Network (AWSN), pitching in for cyber events and seminars, meet ups and writing, reading and listening to the latest podcast/trendsand participating in CTFs. 
 
+:USA: I'm also an active member attendee in US based cyber security based organisations particulary at the National CyberSecurity Alliance events for Cyber security awareness month and Data Privacy week.
 
 ### 💬: Communities I'm a part of:
 
