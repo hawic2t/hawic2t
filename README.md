@@ -8,7 +8,7 @@ A professional problem solver who is dedicated, challenge oriented and resourcef
 
 I started my cyber security journey in 2021 on the forefront before the industry boom in Australia. Thanks to the US connections from Cybrary and Grant Collins' Cyber Academy and my studies at Melbourne Institute of TAFE in cyber security and networking. 
 
-I was inspired to move from project management to the cyber security field where I'm constantly challenged to grow and evolve on a daily basis.
+I got into the cyber security field, as at it's core: it's about protecting people, information and assets and I relish in being constantly challenged to grow and evolve on a daily basis. And you get to do it as a team sport!
 
 - 💻: **Motto:** _Cyber security isn't just an industry, it's a way of life._
 
@@ -43,6 +43,8 @@ I'm an official Champion of #CybersecurityAwarenessMonth with published written 
 - 🌃: <a href="https://www.cybercollective.org//">Cyber Collective Internet street smarts 2024 course</a>: I'm a course content reviewer and am so excited to be a part of Cyber Collective's mission to help society understand the impact of technology and for the every day user to learn how to protect themselves online with a one of a kind course, built by the staff and volunteers! Launching in October's Cyber Security Awareness Month.
 
 - 🎙️: <a href="https://www.galahcyber.com.au/podcasts/#:~:text=Tune%20in%20to%20%22Secured%20by%20Galah%20Cyber,%22%20the%20podcast%20for//">Secured by Galah Cyber Podcast</a>: Upcoming chat with Cole Cornford, Founder of Galah Cyber to share our stories of being respective start-up founders.
+
+- 🌠: **NASA Hackathon**: Annual Moon Kids team leader for 48 hour hackathon challenges. This year my team will be working on the <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/moon-kids//">Exosky Challenge</a>: to create an app for students to map out exoplanet star maps. 
 
 ### 📜: Submitted grant nominees:
 
