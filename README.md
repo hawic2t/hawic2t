@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://cdn.discordapp.com/attachments/1289134368006344704/1289559368152645715/2024-09-28_doodle_v3.png?ex=66fa94c0&is=66f94340&hm=e87e5ed754ae9e653033eb815333767f55bc11b6a2a818b00b4b1b6a7f2be9ec&" width= "400" />
+<div align="center">
+  <img src="https://i.imgur.com/q0ig5DN.png" width= "400"/>
 </div>
 
 ### :woman_technologist: About Me :
