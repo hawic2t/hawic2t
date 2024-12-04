@@ -12,7 +12,7 @@ I got into the cyber security field, as at it's core: it's about protecting peop
 
 - 💻: **Motto:** _Cyber security isn't just an industry, it's a way of life._
 
-- 👩‍🎓: Currently studying a Certificate III in ICT: Cyber security, governance, risk and compliance, ICT consulting, networking, programming (Python) and system admin.
+- 👩‍🎓:Graduated with a Certificate III in ICT: Cyber security, governance, risk and compliance, ICT consulting, networking, programming (Python) and system admin.
 
 - 🫡: In my free time, I love to continue learning, sharing and growing in the CS community by volunteering as a mentor for Australian Women in Security Network (AWSN), pitching in for cyber events and seminars and meet ups both as an attendee and a guest speaker. The latest book or podcast about the latest industry trends or CTF is never too far from my book shelf or laptop.
 
@@ -40,15 +40,13 @@ I'm an official Champion of #CybersecurityAwarenessMonth with published written 
 
 - 🌃: **Cyber Security Awareness Champion for National Cybersecurity Alliance**: Every year the Alliance hosts a range of events for Cyber Security Awareness Month and has champions all across the world to help them promote a safer and more secure digital world. 
    
-- 🌃: <a href="https://www.cybercollective.org//">Cyber Collective Internet street smarts 2024 course</a>: I'm a course content reviewer and am so excited to be a part of Cyber Collective's mission to help society understand the impact of technology and for the every day user to learn how to protect themselves online with a one of a kind course, built by the staff and volunteers! Launching in October's Cyber Security Awareness Month.
+- 🌃: <a href="https://www.cybercollective.org/internet-street-smarts-quiz">Cyber Collective Internet street smarts 2024 course</a>: I'm a course content reviewer and am so excited to be a part of Cyber Collective's mission to help society understand the impact of technology and for the every day user to learn how to protect themselves online with a one of a kind course, built by the staff and volunteers! Launched in October 2024 Cyber Security Awareness Month.
 
-- 🎙️: <a href="https://www.galahcyber.com.au/podcasts/#:~:text=Tune%20in%20to%20%22Secured%20by%20Galah%20Cyber,%22%20the%20podcast%20for//">Secured by Galah Cyber Podcast</a>: Upcoming chat with Cole Cornford, Founder of Galah Cyber to share our stories of being respective start-up founders.
-
-- 🌠: **NASA Hackathon**: Annual Moon Kids team leader for 48 hour hackathon challenges. This year my team will be working on the <a href="https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/moon-kids//">Exosky Challenge</a>: to create an app for students to map out exoplanet star maps. 
+- 🎙️: <a href="https://www.galahcyber.com.au/podcasts/#:~:text=Tune%20in%20to%20%22Secured%20by%20Galah%20Cyber,%22%20the%20podcast%20for//">Talent First - Talking Technology Podcast (UK based)</a>: Upcoming chat with Michelle Edmondson, Co-Founder and Managing Partner, to talk about the rewards and realities of being a women in cyber security.
 
 ### 📜: Submitted grant nominees:
 
-- 🌹: <a href="https://iwd.haagen-dazs.global/en/">Häagen-Dazs Rose Gold Project 2025</a>:In honour of Häagen-Dazs’ iconic female co-founder Rose Mattus, The Rose Project has a bursary grant to support trailblazing women around the world to continue their amazing work and support the incredible causes they are passionate about. **Pending outcome**.
+- 🌹: <a href="https://iwd.haagen-dazs.global/en/iwd-top-50-nominees/">Häagen-Dazs Rose Gold Project 2025</a>:In honour of Häagen-Dazs’ iconic female co-founder Rose Mattus, The Rose Project has a bursary grant to support trailblazing women around the world to continue their amazing work and support the incredible causes they are passionate about. **Pending outcome**.
 - 🌠: **Enterprising Women's 2023 grant**: Women's economic equality category and guest attendee for the <a href="https://youtu.be/mKFQBDSvU_c?si=rOJdwDiwhVq8LMyD/">Grand Finale at Parliament House</a>
 
   
