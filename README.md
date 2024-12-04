@@ -42,7 +42,7 @@ I'm an official Champion of #CybersecurityAwarenessMonth with published written 
    
 - 🌃: <a href="https://www.cybercollective.org/internet-street-smarts-quiz">Cyber Collective Internet street smarts 2024 course</a>: I'm a course content reviewer and am so excited to be a part of Cyber Collective's mission to help society understand the impact of technology and for the every day user to learn how to protect themselves online with a one of a kind course, built by the staff and volunteers! Launched in October 2024 Cyber Security Awareness Month.
 
-- 🎙️: <a href="https://www.galahcyber.com.au/podcasts/#:~:text=Tune%20in%20to%20%22Secured%20by%20Galah%20Cyber,%22%20the%20podcast%20for//">Talent First - Talking Technology Podcast (UK based)</a>: Upcoming chat with Michelle Edmondson, Co-Founder and Managing Partner, to talk about the rewards and realities of being a women in cyber security.
+- 🎙️: <a href="https://podcasts.apple.com/us/podcast/talent-first/id1729985559">Talent First - Talking Technology Podcast (UK based)</a>: Upcoming chat with Michelle Edmondson, Co-Founder and Managing Partner, to talk about the rewards and realities of being a women in cyber security.
 
 ### 📜: Submitted grant nominees:
 
